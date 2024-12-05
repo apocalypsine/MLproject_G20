@@ -15,7 +15,7 @@ Creative exploration of the data.
 - data/raw_data/ contains the original datasets provided by the professor.
 - data/cleaned_data/ contains the preprocessed dataset used for model training.
 - notebooks/Machine_Learning_G20_Notebook.ipynb contains the full project analysis, including data exploration, preprocessing, model comparison, feature importance, and results.
-- reports/Machine_Learning_Group20_Report.pdf is the report detailing the methodology, steps taken, and conclusions of the project.
+- report/Machine_Learning_Group20_Report.pdf is the report detailing the methodology, steps taken, and conclusions of the project.
 
 
 # How to Run the Project
