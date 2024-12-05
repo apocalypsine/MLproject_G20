@@ -1,5 +1,6 @@
 # "TO GRANT OR NOT TO GRANT: DECIDING ON COMPENSATION BENEFITS", a Machine Learning Project repository
-This repository contains a machine learning project "TO GRANT OR NOT TO GRANT: DECIDING ON COMPENSATION BENEFITS" developed as part of the course in the Master’s program in Data Science and Advanced Analytics at Nova IMS in december 2024. The project use data provided by the teacher from the New York Workers’ Compensation Board (WCB), covering claims made between 2020 and 2022, and addresses the challenges faced by the WCB in processing and categorizing claims efficiently.
+This repository contains a machine learning project "TO GRANT OR NOT TO GRANT: DECIDING ON COMPENSATION BENEFITS" developed as part of the course in the Master’s program in Data Science and Advanced Analytics at Nova IMS in december 2024.
+The project use data provided by the teacher from the New York Workers’ Compensation Board (WCB), covering claims made between 2020 and 2022, and addresses the challenges faced by the WCB in processing and categorizing claims efficiently.
 The main objective of this project is to build and optimize machine learning models for automating the classification of injury types from claims.
 
 # Project goals
