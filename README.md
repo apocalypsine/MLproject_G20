@@ -13,9 +13,9 @@ Creative exploration of the data.
 
 # Data and Files
 
-- data/final_submission.csv contains the preprocessed dataset used for model training.
-- notebook/Group_20_notebook.ipynb contains the full project analysis notebook, including data exploration, preprocessing, model comparison, feature importance, and results.
-- report/Group_20_Report.pdf is the report detailing the methodology, steps taken, and conclusions on the project notebook.
+- final_submission.csv contains the preprocessed dataset used for model training.
+- Group_20_notebook.ipynb contains the full project analysis notebook, including data exploration, preprocessing, model comparison, feature importance, and results.
+- Group_20_Report.pdf is the report detailing the methodology, steps taken, and conclusions on the project notebook.
 
 
 # How to Run the Project
