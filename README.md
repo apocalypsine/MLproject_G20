@@ -12,10 +12,10 @@ Refine the selected models to improve their predictive performance through hyper
 Creative exploration of the data.
 
 # Data and Files
-- data/raw_data/ contains the original datasets provided by the professor.
-- data/submissions.csv contains the preprocessed dataset used for model training.
-- notebooks/Machine_Learning_G20_Notebook.ipynb contains the full project analysis, including data exploration, preprocessing, model comparison, feature importance, and results.
-- report/Machine_Learning_Group20_Report.pdf is the report detailing the methodology, steps taken, and conclusions of the project.
+
+- data/final_submission.csv contains the preprocessed dataset used for model training.
+- notebook/Group_20_notebook.ipynb contains the full project analysis notebook, including data exploration, preprocessing, model comparison, feature importance, and results.
+- report/Group_20_Report.pdf is the report detailing the methodology, steps taken, and conclusions on the project notebook.
 
 
 # How to Run the Project
@@ -26,10 +26,12 @@ Creative exploration of the data.
 
 # Contributors
 This project was developed by Group_20 as part of a machine learning course at Nova IMS. Team members:
-- Duarte Nunes
-- Mariana Gomes
-- Pedro Gaspar
-- Rodrigo Nascimento
-- Yasmine Boubezari
+- Duarte Nunes 20240564
+- Mariana Gomes 20211689
+- Pedro Gaspar 20240112
+- Rodrigo Nascimento 20240565
+- Yasmine Boubezari 20230775
 
-  
+
+# Kaggle competition link
+https://www.kaggle.com/competitions/to-grant-or-not-to-grant/
